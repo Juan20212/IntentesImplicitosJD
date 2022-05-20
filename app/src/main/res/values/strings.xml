@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intentes Implicitos JD</string>
+
+    <string name="editText_uri">http://developer.android.com</string>
+    <string name="button_uri">open website</string>
+
+    <string name="edittext_share">\Twas brilling and the slithy toves</string>
+    <string name="button_share">Share This text</string>
+
+</resources>
